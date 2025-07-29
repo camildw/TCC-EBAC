@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "M",
+        "cor": "Gray",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "XL",
+        "cor": "Green",
+        "quantidade": 2
+    },
+
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanho": "S",
+        "cor": "Blue",
+        "quantidade": 4
+    }
+]

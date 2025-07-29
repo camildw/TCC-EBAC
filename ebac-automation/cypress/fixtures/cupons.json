@@ -1,0 +1,8 @@
+{
+  "cupomValido": {
+    "code": "cupomTeste",
+    "amount": "10.00",
+    "discount_type": "fixed_product",
+    "description": "Cupom de teste"
+  }
+}
