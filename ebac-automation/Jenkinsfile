@@ -1,0 +1,16 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('setup') {
+            steps {
+                git branch: 'main', url: 'https://github.com/camildw/TCC-EBAC.git'
+                bat '''cd ebac-automation 
+                npm install 
+                NO_COLOR=1
+                npm test
+                '''
+            }
+        }
+    }
+}
